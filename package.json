@@ -1,0 +1,14 @@
+{
+  "name": "ms-autenticacao",
+  "version": "1.0.0",
+  "description": "Microservice de autenticação de usuário com JWT",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build": "tsc -p ."
+    
+  },
+  "author": "Juliana Lima",
+  "license": "ISC"
+}
